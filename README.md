@@ -1,11 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1D35F7&random=false&width=435&lines=Hello+world%2C++i'm+Ant%C3%B4nio)](https://git.io/typing-svg)
 
--💻 Estudante de tecnologia!
+- 💻 Estudante de tecnologia!
 
 <div>
-<a href="https://github.com/AntonioLopes21"> <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TypeSWITCh21&layout=compact&theme=tokyonight"/> <a href="https://git.io/streak-stats">
+<a href="https://github.com/AntonioLopes21"> <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntonioLopes21&layout=compact&theme=tokyonight"/> <a href="https://git.io/streak-stats">
 <a href="https://git.io/streak-stats">
-<img height="170em" src="https://streak-stats.demolab.com?user=TypeSWITCh21&theme=tokyonight" alt="GitHub Streak" /></a>
+<img height="170em" src="https://streak-stats.demolab.com?user=AntonioLopes21&theme=tokyonight" alt="GitHub Streak" /></a>
 
   ## Technologies I study
 <div style="display: inline_block">
@@ -16,3 +16,5 @@
     <a href="#"><img align="center" alt=".NET" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/></a>
 </div>
 </div>
+
+Meu GitHub: [https://github.com/AntonioLopes21](https://github.com/AntonioLopes21)
