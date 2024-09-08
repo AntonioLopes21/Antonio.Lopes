@@ -3,7 +3,7 @@
 -💻 Estudante de tecnologia!
 
 <div>
-<a href="https://github.com/Antonio.lopes"> <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TypeSWITCh21&layout=compact&theme=tokyonight"/> <a href="https://git.io/streak-stats">
+<a href="https://github.com/AntonioLopes21"> <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TypeSWITCh21&layout=compact&theme=tokyonight"/> <a href="https://git.io/streak-stats">
 <a href="https://git.io/streak-stats">
 <img height="170em" src="https://streak-stats.demolab.com?user=TypeSWITCh21&theme=tokyonight" alt="GitHub Streak" /></a>
 
