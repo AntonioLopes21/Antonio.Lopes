@@ -1,3 +1,6 @@
+<img align='right' height='590em'
+src="https://raw.githubusercontent.com/gist/AntonioLopes21/8c18ebdfe3567c80c4e60e96ec3f0e7b/raw/85d305ba17762ad8465c8ae6735e8c51649ae34d/gistfile1.svg"/>
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1D35F7&random=false&width=435&lines=Hello+world%2C++i'm+Ant%C3%B4nio)](https://git.io/typing-svg)
 
 - 💻 Estudante de tecnologia!
