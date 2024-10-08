@@ -1,5 +1,6 @@
 <img align="right" height="450em" src="https://raw.githubusercontent.com/gist/AntonioLopes21/8c18ebdfe3567c80c4e60e96ec3f0e7b/raw/85d305ba17762ad8465c8ae6735e8c51649ae34d/gistfile1.svg"/> <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Antônio</h1> <p align="left"> <img src="https://komarev.com/ghpvc/?username=AntonioLopes21&color=yellow" alt="Profile views" /> </p>
 🔥 Full-stack Web Developer focused on learning.
+<br><br>
 ⚙️  GitHub Analytics
 <a href="https://github.com/AntonioLopes21"> <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntonioLopes21&layout=compact&theme=tokyonight"/> </a> <a href="https://git.io/streak-stats"> <img height="170em" src="https://streak-stats.demolab.com?user=AntonioLopes21&theme=tokyonight" alt="GitHub Streak" /> </a>
 
