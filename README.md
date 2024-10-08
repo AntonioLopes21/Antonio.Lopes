@@ -7,6 +7,7 @@
 </p>
 
 🔥 Full-stack Web Developer focused on learning.  
+<br>
 💻 Currently pursuing a degree in Systems Analysis and Development at Porto Digital.
 
 <br>
