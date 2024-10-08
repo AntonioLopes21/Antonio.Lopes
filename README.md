@@ -6,7 +6,7 @@ src="https://raw.githubusercontent.com/gist/AntonioLopes21/8c18ebdfe3567c80c4e60
 - 💻 Estudante de tecnologia!
 
 <div>
-<a href="https://github.com/AntonioLopes21"> <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntonioLopes21&layout=compact&theme=tokyonight"/> <a href="https://git.io/streak-stats">
+<a href="[https://github.com/AntonioLopes21](https://github.com/AntonioLopes21)"> <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntonioLopes21&layout=compact&theme=tokyonight"/> <a href="https://git.io/streak-stats">
 <a href="https://git.io/streak-stats">
 <img height="170em" src="https://streak-stats.demolab.com?user=AntonioLopes21&theme=tokyonight" alt="GitHub Streak" /></a>
 
