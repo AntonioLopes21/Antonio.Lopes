@@ -11,7 +11,7 @@
 
 <br>
 
-⚙️ GitHub Analytics 
+⚙️ GitHub Analytics<br>
 <a href="https://github.com/AntonioLopes21"> 
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntonioLopes21&layout=compact&theme=tokyonight"/> 
 </a> 
