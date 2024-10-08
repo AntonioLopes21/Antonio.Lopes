@@ -5,7 +5,7 @@
 
 <br><br>
 
-⚙️  GitHub Analytics <a href="https://github.com/AntonioLopes21"> <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntonioLopes21&layout=compact&theme=tokyonight"/> </a> <a href="https://git.io/streak-stats"> <img height="170em" src="https://streak-stats.demolab.com?user=AntonioLopes21&theme=tokyonight" alt="GitHub Streak" /> </a>
+⚙️  GitHub Analytics <a href="https://github.com/AntonioLopes21"> <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntonioLopes21&layout=compact&theme=tokyonight"/> </a><br><br><br><br> <a href="https://git.io/streak-stats"> <img height="170em" src="https://streak-stats.demolab.com?user=AntonioLopes21&theme=tokyonight" alt="GitHub Streak" /> </a>
 
 <br><br>
 
