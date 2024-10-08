@@ -15,11 +15,14 @@
 ⚙️  GitHub Analytics 
 <a href="https://github.com/AntonioLopes21"> 
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntonioLopes21&layout=compact&theme=tokyonight"/> 
-</a> 
+</a> <br><br><br><br><br>
 <a href="https://git.io/streak-stats"> 
   <img height="170em" src="https://streak-stats.demolab.com?user=AntonioLopes21&theme=tokyonight" alt="GitHub Streak" /> 
 </a>
 
+<br><br>
+📝  Code Resolution
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=AntonioLopes21&show_icons=true&theme=tokyonight)
 <br><br>
 
 🛠  Tech Stack 
@@ -30,8 +33,7 @@
 <a href="#"><img align="center" alt="Java" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/></a> 
 <a href="#"><img align="center" alt="SQL" src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/></a>
 
-📝  Code Resolution
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=AntonioLopes21&show_icons=true&theme=tokyonight)
+
 
 🚀  Other Technologies
 
