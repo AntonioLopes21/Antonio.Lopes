@@ -1,5 +1,5 @@
 <!-- Imagem à direita -->
-<img align='right' height='500em'
+<img align='right' height='450em'
   src="https://raw.githubusercontent.com/gist/AntonioLopes21/8c18ebdfe3567c80c4e60e96ec3f0e7b/raw/85d305ba17762ad8465c8ae6735e8c51649ae34d/gistfile1.svg" />
 
 <!-- Texto e conteúdo à esquerda -->
