@@ -11,12 +11,10 @@
 
 🛠  Tech Stack <a href="#"><img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/></a> <a href="#"><img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/></a> <a href="#"><img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/></a> <a href="#"><img align="center" alt="React" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white"/></a> <a href="#"><img align="center" alt="Java" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/></a> <a href="#"><img align="center" alt="SQL" src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/></a>
 
-📝  Code Resolution
-
-🚀  Other Technologies
+📝  <sub>Code Resolution</sub>
 
 <br><br>
 
 📫  Contact Me
 
-<p align="left"> <a href="https://www.linkedin.com/in/antonio-de-padua-385511288/" target="_blank"> <img align="center" src="https://img.shields.io/badge/-AntonioLopes21-05122A?style=flat&logo=linkedin" alt="linkedin"/> </a> <a href="https://twitter.com/AntonioLopes21" target="_blank"> <img align="center" src="https://img.shields.io/badge/-AntonioLopes21-05122A?style=flat&logo=twitter" alt="twitter"/> </a> <a href="https://www.instagram.com/antonio.lopes_21/" target="_blank"> <img align="center" src="https://img.shields.io/badge/-AntonioLopes21-05122A?style=flat&logo=instagram" alt="instagram"/> </a> <a href="https://github.com/AntonioLopes21" target="_blank"> <img align="center" src="https://img.shields.io/badge/-AntonioLopes21-05122A?style=flat&logo=github" alt="github"/> </a> </p>
+<p align="left"> <a href="https://www.linkedin.com/in/antonio-de-padua-385511288/" target="_blank"> <img align="center" src="https://img.shields.io/badge/-AntonioLopes21-05122A?style=flat&logo=linkedin" alt="linkedin"/> </a> <a href="https://www.instagram.com/antonio.lopes_21/" target="_blank"> <img align="center" src="https://img.shields.io/badge/-AntonioLopes21-05122A?style=flat&logo=instagram" alt="instagram"/> </a> <a href="https://github.com/AntonioLopes21" target="_blank"> <img align="center" src="https://img.shields.io/badge/-AntonioLopes21-05122A?style=flat&logo=github" alt="github"/> </a> </p>
